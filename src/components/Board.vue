@@ -33,7 +33,7 @@
       </div>
     </div>
     <div
-      v-if="true"
+      v-if="gameOver"
       class="gameOver"
     >
       &#128128; Game Over &#128128;
