@@ -16,7 +16,7 @@ export default {
 <style>
 html {
   background: url("../public/background.jpg") no-repeat;
-  background-size: cover;
+  background-size: grow;
   background-repeat: repeat;
 }
 
